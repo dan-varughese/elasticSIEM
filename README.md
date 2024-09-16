@@ -22,9 +22,12 @@ Succesfully set up and configured an Elastic Stack SIEM in a home lab environmen
 *Ref 1: Elastic Logs*
 <img src="https://i.imgur.com/K2gnRwo.png"/>
 
-*Ref 2: *
+*Ref 2: Nmap Scans*
+<img src="https://i.imgur.com/slPosbJ.png"/>
 
-*Ref 3: *
+*Ref 3: Custom Dashboard*
+<img src="https://i.imgur.com/0Fg33ID.png"/>
 
-*Ref 4  *
+*Ref 4  Nmap Scans on Kali Linux*
+<img src="https://i.imgur.com/MMRw9n1.png"/>
 
